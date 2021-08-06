@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sample PHP App
 ==============
 
@@ -35,3 +36,6 @@ php artisan serve
 ```
 
 When you visit [http://localhost:8000](http://localhost:8000) you will be taken to Tienda Nube/Nuvem Shop's login page. Log into your store and you will be prompted to install your app. Install it and the provided auth route will take care of obtaining and storing an access token.
+=======
+# php-app
+>>>>>>> b58e5ce31bc0468bd9603dd30883d34731f1a52e
