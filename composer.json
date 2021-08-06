@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.0.*",
-		"tiendanube/php-sdk": ">=1.0"
+		"tiendanube/php-sdk": "~2.0.0"
 	},
 	"autoload": {
 		"classmap": [
